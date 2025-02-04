@@ -1,6 +1,8 @@
 # Stock-Market-Predictor
 A machine-learning model that predicts stock prices based on historical data.
+
 📜 Features:
+
  • Uses ML algorithms for predictions
  • Data visualization
  • Works with multiple stock exchanges
